@@ -1,4 +1,4 @@
-window.WEDDING_GUESTBOOK_ENDPOINT = "https://script.google.com/macros/s/AKfycbyLyRKn1I8H6iJT7OucN3hii8xYJZeYW27w-lBTuL-ZHkJKFKv0MF9HYT5WEm33pdU/exec";
+window.WEDDING_GUESTBOOK_ENDPOINT = "https://script.google.com/macros/s/AKfycbyLyRKn1I8H6iJT7OucN3hii8xYJZeYW27w-lBTuL-ZHkJKFKv0MF9HYT5WEm33pdU/exec"; 
 // Đường dẫn tương đối tới file nhạc trong thư mục music.
 window.WEDDING_MUSIC_URL = "music/chuynn.mp3";
 window.WEDDING_MAP_URL = "https://maps.app.goo.gl/b81knd6YxQW5ZnE27?g_st=ifm";
