@@ -1,7 +1,7 @@
 window.WEDDING_GUESTBOOK_ENDPOINT = "https://script.google.com/macros/s/AKfycbyLyRKn1I8H6iJT7OucN3hii8xYJZeYW27w-lBTuL-ZHkJKFKv0MF9HYT5WEm33pdU/exec";
 // Đường dẫn tương đối tới file nhạc trong thư mục music.
 window.WEDDING_MUSIC_URL = "music/chuynn.mp3";
-window.WEDDING_MAP_URL = "https://www.google.com/maps/place/20%C2%B054'39.6%22N+105%C2%B047'46.6%22E/@20.911016,105.7937061,17z/data=!3m1!4b1!4m4!3m3!8m2!3d20.911011!4d105.796281?entry=ttu&g_ep=EgoyMDI2MTAwNC4wIKXMDSoASAFQAw%3D%3D";
+window.WEDDING_MAP_URL = "https://maps.app.goo.gl/b81knd6YxQW5ZnE27?g_st=ifm";
 
 // Sửa thông tin thiệp tại đây. Với các đoạn văn bên dưới, giữ nguyên "match"
 // và chỉ sửa nội dung trong "text".
@@ -28,8 +28,8 @@ window.WEDDING_INFO = {
   weddingDay: "24",
   lunarDate: "(Tức ngày 15 tháng 9 âm Bính Ngọ)",
   venueName: "nhà riêng",
-  venueAddress: "số 1 ngõ 3 đường Trục, Quảng Minh, Tam Hưng, Hà Nội",
-  venueAddressDisplay: "số 1 ngõ 3 đường Trục, Quảng Minh, Tam Hưng, Hà Nội",
+  venueAddress: "Số nhà 1, ngõ Thượng 5, xóm 6, thôn Tri Lễ, Xã Dân Hoà, Hà Nội",
+  venueAddressDisplay: "Số nhà 1, ngõ Thượng 5, xóm 6, thôn Tri Lễ, Xã Dân Hoà, Hà Nội",
   brideBirthDate: "24/05/2000",
   groomBirthDate: "20/10/1999",
   brideProfileHometown: "TP. Hà Nội",
